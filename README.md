@@ -32,7 +32,7 @@ Program
 **09:00<br>09:45** | GitHub Repositories<br>Source Code Management (GitHub) |WP1 Overview (Anne Moneux)<br>WP2 Overview (Samuel Lara-Cruz)
 **09:45<br>10:30** | Scrum Management (waffle.io)<br>Product Backlog & Requirements |WP3 Overview (Ferhat Erata)<br>WP4 Overview (Erhan Mengüsoğlu)
 **10:30<br>11:15** | **Coffee Break** |  **Coffee Break** |
-**11:15<br>11:45** | GitHub, SourceTree Hands-on (Ferhat Erata)<br> Eclipse EGit, Atom Hands-on (Ferhat Erata)|WP5 Overview (Ferhat Erata)<br> WP6 Overview (Etienne Juliot)
+**11:15<br>11:45** | GitHub & SourceTree(Ferhat Erata)<br> Eclipse EGit & Atom (Ferhat Erata)|WP5 Overview (Ferhat Erata)<br> WP6 Overview (Etienne Juliot)
 **11:45<br>12:30** | Git-Flow, Branching & Pull Request <br> (Ferhat Erata, Furkan Tanrıverdi) | WP7 Overview (Etienne Juliot)<br> Effort Breakdown (Moharram Challenger)
 **12:30<br>14:00** | **Lunch Time** | **Lunch Time** |
 **14:00<br>14:45** | Work Packages, Tasks & Deliverables<br>Moderator: (Ferhat Erata)| Use Cases for French Consortium<br>Use Cases for Turkish Consortium
