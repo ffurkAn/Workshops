@@ -36,7 +36,7 @@ Program
 **11:45<br>12:30** | Git-Flow, Branching & Pull Request <br> (Ferhat Erata, Furkan Tanrıverdi) | WP7 Overview (Etienne Juliot)<br> Effort Breakdown (Moharram Challenger)
 **12:30<br>14:00** | **Lunch Time** | **Lunch Time** |
 **14:00<br>14:45** | Work Packages, Tasks & Deliverables<br>Moderator: (Ferhat Erata)| Use Cases for French Consortium<br>Use Cases for Turkish Consortium
-**14:45<br>15:30** | Team Management (PCC and TCC)<br>Moderator: (Moharram Challenger) | State-of-the art (Moharram Challenger)<br>Technological Innovations (Ferhat Erata)
+**14:45<br>15:30** | Team Management (PCC and TCC)<br>Moderator: (Moharram Challenger) | State-of-the art (Moharram Challenger)<br>Innovations (Ferhat Erata)
 **15:30<br>16:00** | **Coffee Break** | **Coffee Break** |
 **16:00<br>16:45** | Project Cooperation Agreement - I<br> Moderator: (Moharram Challenger)| Change Request (CR)<br>Moderator: (Moharram Challenger)
 **16:45<br>17:30** | Project Cooperation Agreement - II<br> Moderator: (Ferhat Erata) | Wrap-up: conclusions and next agenda <br> Moderator: (Ferhat Erata) 
