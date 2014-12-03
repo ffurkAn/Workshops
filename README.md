@@ -35,7 +35,7 @@ Program
 **11:15<br>11:45** | GitHub, SourceTree Hands-on (Ferhat Erata)<br> Eclipse EGit, Atom Hands-on (Ferhat Erata)|WP5 Overview (Ferhat Erata)<br> WP6 Overview (Etienne Juliot)
 **11:45<br>12:30** | Git-Flow, Branching & Pull Request <br> (Ferhat Erata, Furkan Tanrıverdi) | WP7 Overview (Etienne Juliot)<br> Effort Breakdown (Moharram Challenger)
 **12:30<br>14:00** | **Lunch Time** | **Lunch Time** |
-**14:00<br>14:45** | Work Packages, Tasks & Deliverables<br>Moderator: (Ferhat Erata)| Industrial Use Cases for French Consortium<br>Industrial Use Cases for Turkish Consortium
+**14:00<br>14:45** | Work Packages, Tasks & Deliverables<br>Moderator: (Ferhat Erata)| Use Cases for French Consortium<br>Use Cases for Turkish Consortium
 **14:45<br>15:30** | Team Management (PCC and TCC)<br>Moderator: (Moharram Challenger) | State-of-the art (Moharram Challenger)<br>Technological Innovations (Ferhat Erata)
 **15:30<br>16:00** | **Coffee Break** | **Coffee Break** |
 **16:00<br>16:45** | Project Cooperation Agreement - I<br> Moderator: (Moharram Challenger)| Change Request (CR)<br>Moderator: (Moharram Challenger)
