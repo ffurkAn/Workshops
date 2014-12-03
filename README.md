@@ -1,7 +1,5 @@
-Workshops
-=========
-
-# 1st International Workshop in İzmir, Turkey
+1st International Workshop in İzmir, Turkey
+===
 **Jan 15-17, 2015**
 
 Participants
