@@ -17,8 +17,8 @@ No | Organization  | Participant |Status
 8 | KOCSISTEM | Prof. Geylani Kardaş | Confirmed
 9 | OBEO | Marwa Rostren | Confirmed
 10 | OBEO | Etienne Juliot | Confirmed
-11 | LORIA | Samuel Cruz-Lara | ?
-12 | LORIA | Clairea Gardent | ?
+11 | LORIA | Samuel Cruz-Lara | Confirmed
+12 | LORIA | Clairea Gardent | Confirmed
 13 | EADS |Anne Moneux  | Confirmed
 14 | MANTIS | Prof. Erhan Mengüsoğlu  | Confirmed
 15 | HISBIM | Ersan Gürdoğan | Confirmed
@@ -29,7 +29,7 @@ Program
 
  | 15 Jan 2015 - Thursday | 16 Jan 2015 - Friday |
 :-----:|:----- | :------ | :------
-**09:00<br>09:45** | GitHub Repositories<br>Source Code Management (GitHub) |WP1 Overview (Anne Moneux)<br>WP2 Overview (Samuel Lara-Cruz)
+**09:00<br>09:45** | GitHub Repositories<br>Source Code Management (GitHub) |WP1 Overview (Anne Moneux)<br>WP2 Overview (Claire Gardent)
 **09:45<br>10:30** | Scrum Management (waffle.io)<br>Product Backlog & Requirements |WP3 Overview (Ferhat Erata)<br>WP4 Overview (Erhan Mengüsoğlu)
 **10:30<br>11:15** | **Coffee Break** |  **Coffee Break** |
 **11:15<br>11:45** | GitHub & SourceTree(Ferhat Erata)<br> Eclipse EGit & Atom (Ferhat Erata)|WP5 Overview (Ferhat Erata)<br> WP6 Overview (Etienne Juliot)
