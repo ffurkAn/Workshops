@@ -1,23 +1,23 @@
-1st International Workshop in İzmir, Turkey
+The 1st International ModelWriter Workshop in Izmir, Turkey
 ===
 **Jan 15-17, 2015**
 
-Location
+Venue
 ---
 [Workshop Map](https://www.google.com/maps/d/viewer?mid=z3T2wGQj_Uvw.k7fX60C9jOuM)
 
-The two days workshop will be held in one of the Boardroom of [SwissOtel](http://www.swissotel.com/hotels/izmir/). You can check the hotel from [Booking.com](http://www.booking.com/hotel/tr/swissotel-grand-efes-izmir.en-gb.html). 
+The two days workshop will be held in [SwissOtel](http://www.swissotel.com/hotels/izmir/). You can check the hotel for your accomodation from [Booking.com](http://www.booking.com/hotel/tr/swissotel-grand-efes-izmir.en-gb.html). 
 
-You can book your room with a discount price from SwissOtel. 
+You can book your room with a negotiated discount price from SwissOtel for our guests. 
 
 * Single Room Rate - Classic & Swiss Advantage Room Euro 90.-  
 * Double Room Rate - Classic & Swiss Advantage Room Euro 110.-  
-*Above rates are inclusive of breakfast and exclusive of Local VAT (8%)*  
+*These rates include breakfast and exclude Local VAT (8%)*
 [Swissotel, Izmir - Booking Form](https://github.com/ModelWriter/Workshops/raw/master/Documents/Reservation_Form_for_Swissotel_Izmir.docx).  
-Swissotel also provides private transfer services between Izmir Airport & the hotel  
+Swissotel also provides private shuttle services between Izmir Airport & the hotel  
 [Swissotel, Izmir - Transfer Reservation Form](https://github.com/ModelWriter/Workshops/raw/master/Documents/Transfer_Form_for_Swissotel_Izmir.docx).
 
-You can check the nearby hotels at "Izmir City Center" as well. Some of them (walking distances to the event location, 5-10 minutes):
+You can also check the nearby hotels at "Izmir City Center". Some of them are in walking distances to the event location, 5-10 minutes:
 * [Renaissance Izmir Hotel](http://www.booking.com/hotel/tr/renaissance-izmir.en-gb.html)
 * [Mövenpick Hotel Izmir](http://www.booking.com/hotel/tr/movenpick-izmir.en-gb.html)
 * [Hilton Izmir](http://www.booking.com/hotel/tr/hilton-izmir.en-gb.html)
