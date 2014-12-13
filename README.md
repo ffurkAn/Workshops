@@ -50,17 +50,17 @@ Program
 
  | 15 Jan 2015 - Thursday | 16 Jan 2015 - Friday |
 :-----:|:----- | :------ | :------
-**09:00<br>09:45** | GitHub Repositories<br>Source Code Management (GitHub) |WP1 Overview (Anne Moneux)<br>WP2 Overview (Claire Gardent)
-**09:45<br>10:30** | Scrum Management (waffle.io)<br>Product Backlog & Requirements |WP3 Overview (Ferhat Erata)<br>WP4 Overview (Erhan Mengüsoğlu)
+**09:00<br>09:45** |WP1 Overview (Anne Moneux)<br>WP2 Overview (Claire Gardent)|  Introduction to GitHub Repositories<br>Source Code Management (GitHub) 
+**09:45<br>10:30** |WP3 Overview (Ferhat Erata)<br>WP4 Overview (Erhan Mengüsoğlu) | Scrum Management (waffle.io)<br>Product Backlog & Requirements 
 **10:30<br>11:15** | **Coffee Break** |  **Coffee Break** |
-**11:15<br>11:45** | GitHub & SourceTree(Ferhat Erata)<br> Eclipse EGit & Atom (Ferhat Erata)|WP5 Overview (Ferhat Erata)<br> WP6 Overview (Etienne Juliot)
-**11:45<br>12:30** | Git-Flow, Branching & Pull Request <br> (Ferhat Erata, Furkan Tanrıverdi) | WP7 Overview (Etienne Juliot)<br> Effort Breakdown (Moharram Challenger)
+**11:15<br>11:45** |WP5 Overview (Ferhat Erata)<br> WP6 Overview (Etienne Juliot) | GitHub & SourceTree(Ferhat Erata)<br> Eclipse EGit & Atom (Ferhat Erata)
+**11:45<br>12:30** | WP7 Overview (Etienne Juliot)<br> Effort Breakdown (Moharram Challenger) | Git-Flow, Branching & Pull Request <br> (Ferhat Erata, Furkan Tanrıverdi) 
 **12:30<br>14:00** | **Lunch Time** | **Lunch Time** |
-**14:00<br>14:45** | Work Packages, Tasks & Deliverables<br>Moderator: (Ferhat Erata)| Use Cases for French Consortium<br>Use Cases for Turkish Consortium
-**14:45<br>15:30** | Team Management (PCC and TCC)<br>Moderator: (Moharram Challenger) | State-of-the art (Moharram Challenger)<br>Innovations (Ferhat Erata)
+**14:00<br>14:45** | Use Cases for French Consortium<br>Use Cases for Turkish Consortium | Work Packages, Tasks & Deliverables<br>Moderator: (Ferhat Erata)
+**14:45<br>15:30** | State-of-the art (Moharram Challenger)<br>Innovations (Ferhat Erata) | Team Management (PCC and TCC)<br>Moderator: (Moharram Challenger) 
 **15:30<br>16:00** | **Coffee Break** | **Coffee Break** |
-**16:00<br>16:45** | Project Cooperation Agreement - I<br> Moderator: (Moharram Challenger)| Change Request (CR)<br>Moderator: (Moharram Challenger)
-**16:45<br>17:30** | Project Cooperation Agreement - II<br> Moderator: (Ferhat Erata) | Wrap-up: conclusions and next agenda <br> Moderator: (Ferhat Erata) 
+**16:00<br>16:45** | Change Request (CR)<br>Moderator: (Moharram Challenger)| Project Cooperation Agreement - I<br> Moderator: (Moharram Challenger)
+**16:45<br>17:30** | Wrap-up: conclusions and next agenda <br> Moderator: (Ferhat Erata) | Project Cooperation Agreement - II<br> Moderator: (Ferhat Erata) 
 **17:30<br>19:00** | **Free Time** | **Free Time** |
 **19:00<br>21:30** | Welcome dinner | -
 
