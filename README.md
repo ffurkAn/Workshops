@@ -6,17 +6,20 @@ Location
 ---
 The two days workshop will be held in one of the boardroom of [SwissOtel](http://www.swissotel.com/hotels/izmir/). You can check the hotel from [Booking.com](http://www.booking.com/hotel/tr/swissotel-grand-efes-izmir.en-gb.html). 
 
-We suggest you to book your room with a discount price from SwissOtel:
+You can book your room with a discount price from SwissOtel. 
 
 * Single Room Rate - Classic & Swiss Advantage Room Euro 90.-  
 * Double Room Rate - Classic & Swiss Advantage Room Euro 110.-  
 *Above rates are inclusive of breakfast and exclusive of Local VAT (8%)*  
-[Swissotel, Izmir - Booking Form](https://github.com/ModelWriter/Workshops/raw/master/Documents/Reservation_Form_for_Swissotel_Izmir.docx).
-
-You can check the nearby hotels (Izmir City Center) as well   
-
+[Swissotel, Izmir - Booking Form](https://github.com/ModelWriter/Workshops/raw/master/Documents/Reservation_Form_for_Swissotel_Izmir.docx).  
 Swissotel also provides private transfer services between Izmir Airport & the hotel  
-[Swissoteli, Izmir - Transfer Reservation Form](https://github.com/ModelWriter/Workshops/raw/master/Documents/Transfer_Form_for_Swissotel_Izmir.docx).
+[Swissotel, Izmir - Transfer Reservation Form](https://github.com/ModelWriter/Workshops/raw/master/Documents/Transfer_Form_for_Swissotel_Izmir.docx).
+
+You can check the nearby hotels at "Izmir City Center" as well. Some of them (walking distances to the event location, 5-10 minutes):
+* [Renaissance Izmir Hotel](http://www.booking.com/hotel/tr/renaissance-izmir.en-gb.html)
+* [Mövenpick Hotel Izmir](http://www.booking.com/hotel/tr/movenpick-izmir.en-gb.html)
+* [Hilton Izmi](http://www.booking.com/hotel/tr/hilton-izmir.en-gb.html)
+
 
 Participants
 ---
