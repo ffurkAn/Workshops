@@ -4,7 +4,9 @@
 
 Location
 ---
-The two days workshop will be held in one of the boardroom of [SwissOtel](http://www.swissotel.com/hotels/izmir/). You can check the hotel from [Booking.com](http://www.booking.com/hotel/tr/swissotel-grand-efes-izmir.en-gb.html). 
+[Workshop Map](https://www.google.com/maps/d/viewer?mid=z3T2wGQj_Uvw.k7fX60C9jOuM)
+
+The two days workshop will be held in one of the Boardroom of [SwissOtel](http://www.swissotel.com/hotels/izmir/). You can check the hotel from [Booking.com](http://www.booking.com/hotel/tr/swissotel-grand-efes-izmir.en-gb.html). 
 
 You can book your room with a discount price from SwissOtel. 
 
@@ -84,4 +86,5 @@ Topics
 Directions
 ---
 
-![https://www.google.com/maps/d/viewer?mid=z3T2wGQj_Uvw.k7fX60C9jOuM](https://raw.githubusercontent.com/ModelWriter/Workshops/master/Documents/Workshop_Map.png)
+![<img src="http://www.google.com.au/images/nav_logo7.png">](https://raw.githubusercontent.com/ModelWriter/Workshops/master/Documents/Workshop_Map.png)
+
