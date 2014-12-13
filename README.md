@@ -20,7 +20,7 @@ Swissotel also provides private transfer services between Izmir Airport & the ho
 You can check the nearby hotels at "Izmir City Center" as well. Some of them (walking distances to the event location, 5-10 minutes):
 * [Renaissance Izmir Hotel](http://www.booking.com/hotel/tr/renaissance-izmir.en-gb.html)
 * [Mövenpick Hotel Izmir](http://www.booking.com/hotel/tr/movenpick-izmir.en-gb.html)
-* [Hilton Izmi](http://www.booking.com/hotel/tr/hilton-izmir.en-gb.html)
+* [Hilton Izmir](http://www.booking.com/hotel/tr/hilton-izmir.en-gb.html)
 
 
 Participants
