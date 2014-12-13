@@ -50,8 +50,8 @@ Program
 
  | 15 Jan 2015 - Thursday | 16 Jan 2015 - Friday |
 :-----:|:----- | :------ | :------
-**09:00<br>09:45** |WP1 Overview (Anne Moneux)<br>WP2 Overview (Claire Gardent)|  Introduction to GitHub Repositories<br>Source Code Management (GitHub) 
-**09:45<br>10:30** |WP3 Overview (Ferhat Erata)<br>WP4 Overview (Erhan Mengüsoğlu) | Scrum Management (waffle.io)<br>Product Backlog & Requirements 
+**09:00<br>09:45** |WP1 Overview (Anne Moneux)<br>WP2 Overview (Claire Gardent)|  GitHub Repositories (Ferhat Erata) <br>Source Code Management (Ferhat Erata) 
+**09:45<br>10:30** |WP3 Overview (Ferhat Erata)<br>WP4 Overview (Erhan Mengüsoğlu) | Scrum Management (Ferhat Erata) <br>Requirements Management (Ferhat Erata) 
 **10:30<br>11:15** | **Coffee Break** |  **Coffee Break** |
 **11:15<br>11:45** |WP5 Overview (Ferhat Erata)<br> WP6 Overview (Etienne Juliot) | GitHub & SourceTree(Ferhat Erata)<br> Eclipse EGit & Atom (Ferhat Erata)
 **11:45<br>12:30** | WP7 Overview (Etienne Juliot)<br> Effort Breakdown (Moharram Challenger) | Git-Flow, Branching & Pull Request <br> (Ferhat Erata, Furkan Tanrıverdi) 
