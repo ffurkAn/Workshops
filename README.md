@@ -10,13 +10,13 @@ We suggest you to book your room with a discount price from SwissOtel:
 
 * Single Room Rate - Classic & Swiss Advantage Room Euro 90.-  
 * Double Room Rate - Classic & Swiss Advantage Room Euro 110.-  
-*Above rates are inclusive of breakfast and exclusive of Local VAT (8%)*
-[Swissotel, Izmir - Booking Form](https://github.com/ModelWriter/Workshops/raw/master/Documents/Reservation_Form_for_Swissotel_Izmir.docx)
+*Above rates are inclusive of breakfast and exclusive of Local VAT (8%)*  
+[Swissotel, Izmir - Booking Form](https://github.com/ModelWriter/Workshops/raw/master/Documents/Reservation_Form_for_Swissotel_Izmir.docx).
 
 You can check the nearby hotels (Izmir City Center) as well   
 
-Swissotel also provides private transfer services between Izmir Airport & the hotel.  
-[Swissoteli, Izmir - Transfer Reservation Form](https://github.com/ModelWriter/Workshops/raw/master/Documents/Transfer_Form_for_Swissotel_Izmir.docx)
+Swissotel also provides private transfer services between Izmir Airport & the hotel  
+[Swissoteli, Izmir - Transfer Reservation Form](https://github.com/ModelWriter/Workshops/raw/master/Documents/Transfer_Form_for_Swissotel_Izmir.docx).
 
 Participants
 ---
