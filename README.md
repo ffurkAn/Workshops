@@ -2,6 +2,22 @@
 ===
 **Jan 15-17, 2015**
 
+Location
+---
+The two days workshop will be held in one of the boardroom of [SwissOtel](http://www.swissotel.com/hotels/izmir/). You can check the hotel from [Booking.com](http://www.booking.com/hotel/tr/swissotel-grand-efes-izmir.en-gb.html). 
+
+We suggest you to book your room with a discount price from SwissOtel:
+
+* Single Room Rate - Classic & Swiss Advantage Room Euro 90.-  
+* Double Room Rate - Classic & Swiss Advantage Room Euro 110.-  
+*Above rates are inclusive of breakfast and exclusive of Local VAT (8%)*
+[Swissotel, Izmir - Booking Form](https://github.com/ModelWriter/Workshops/raw/master/Documents/Reservation_Form_for_Swissotel_Izmir.docx)
+
+You can check the nearby hotels (Izmir City Center) as well   
+
+Swissotel also provides private transfer services between Izmir Airport & the hotel.  
+[Swissoteli, Izmir - Transfer Reservation Form](https://github.com/ModelWriter/Workshops/raw/master/Documents/Transfer_Form_for_Swissotel_Izmir.docx)
+
 Participants
 ---
 
@@ -62,3 +78,7 @@ Topics
 * [ ] Project Cooperation Agreement (PCA)
 * [ ] [Types of Collaborative Development Models](https://help.github.com/articles/using-pull-requests/#types-of-collaborative-development-models)
 
+Directions
+---
+
+![https://www.google.com/maps/d/viewer?mid=z3T2wGQj_Uvw.k7fX60C9jOuM](https://raw.githubusercontent.com/ModelWriter/Workshops/master/Documents/Workshop_Map.png)
