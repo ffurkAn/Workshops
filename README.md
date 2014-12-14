@@ -6,7 +6,7 @@ Venue
 ---
 [Workshop Map](https://www.google.com/maps/d/viewer?mid=z3T2wGQj_Uvw.k7fX60C9jOuM)
 
-The two days workshop will be held in [SwissOtel](http://www.swissotel.com/hotels/izmir/). You can check the hotel for your accomodation from [Booking.com](http://www.booking.com/hotel/tr/swissotel-grand-efes-izmir.en-gb.html). 
+The two days workshop will be held in [SwissOtel](http://www.swissotel.com/hotels/izmir/). You can check the hotel for your accommodation from [Booking.com](http://www.booking.com/hotel/tr/swissotel-grand-efes-izmir.en-gb.html). 
 
 You can book your room with a negotiated discount price from SwissOtel for our guests. 
 
