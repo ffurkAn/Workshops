@@ -10,12 +10,15 @@ The two days workshop will be held in [SwissOtel](http://www.swissotel.com/hotel
 
 You can book your room with a negotiated discount price from SwissOtel for our guests. 
 
-* Single Room Rate - Classic & Swiss Advantage Room Euro 90.-  
-* Double Room Rate - Classic & Swiss Advantage Room Euro 110.-  
+ 1.  Single Room Rate - Classic & Swiss Advantage Room Euro 90.-  
+ 2. Double Room Rate - Classic & Swiss Advantage Room Euro 110.-  
 *These rates include breakfast and exclude Local VAT (8%)*
-[Swissotel, Izmir - Booking Form](https://github.com/ModelWriter/Workshops/raw/master/Documents/Reservation_Form_for_Swissotel_Izmir.docx).  
-Swissotel also provides private shuttle services between Izmir Airport & the hotel  
-[Swissotel, Izmir - Transfer Reservation Form](https://github.com/ModelWriter/Workshops/raw/master/Documents/Transfer_Form_for_Swissotel_Izmir.docx).
+
+[Swissotel, Izmir - Booking Form](https://github.com/ModelWriter/Workshops/raw/master/Documents/Reservation_Form_for_Swissotel_Izmir.docx). Please send the form to [Reservations.Izmir@swissotel.com]. 
+
+Swissotel also provides private shuttle services between Izmir Airport & the hotel. 
+
+[Swissotel, Izmir - Transfer Reservation Form](https://github.com/ModelWriter/Workshops/raw/master/Documents/Transfer_Form_for_Swissotel_Izmir.docx). Please send the form to [concierge.izmir@swissotel.com ]
 
 You can also check the nearby hotels at "Izmir City Center". Some of them are in walking distances to the event location, 5-10 minutes:
 * [Renaissance Izmir Hotel](http://www.booking.com/hotel/tr/renaissance-izmir.en-gb.html)
