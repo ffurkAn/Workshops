@@ -16,9 +16,7 @@ You can book your room with a negotiated discount price from SwissOtel for our g
 
 [Swissotel, Izmir - Booking Form](https://github.com/ModelWriter/Workshops/raw/master/Documents/Reservation_Form_for_Swissotel_Izmir.docx). Please send the form to [Reservations.Izmir@swissotel.com]. 
 
-Swissotel also provides private shuttle services between Izmir Airport & the hotel. 
-
-[Swissotel, Izmir - Transfer Reservation Form](https://github.com/ModelWriter/Workshops/raw/master/Documents/Transfer_Form_for_Swissotel_Izmir.docx). Please send the form to [concierge.izmir@swissotel.com ]
+Swissotel also provides private shuttle services between Izmir Airport & the hotel. [Swissotel, Izmir - Transfer Reservation Form](https://github.com/ModelWriter/Workshops/raw/master/Documents/Transfer_Form_for_Swissotel_Izmir.docx). Please send the form to [concierge.izmir@swissotel.com ]
 
 You can also check the nearby hotels at "Izmir City Center". Some of them are in walking distances to the event location, 5-10 minutes:
 * [Renaissance Izmir Hotel](http://www.booking.com/hotel/tr/renaissance-izmir.en-gb.html)
