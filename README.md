@@ -41,7 +41,7 @@ No | Organization  | Participant |Status
 10 | OBEO | Etienne Juliot | Confirmed
 11 | LORIA | Samuel Cruz-Lara | Confirmed
 12 | LORIA | Clairea Gardent | Confirmed
-13 | EADS |Anne Moneux  | Confirmed
+13 | EADS | Anne Monceaux  | Confirmed
 14 | MANTIS | Prof. Erhan Mengüsoğlu  | Confirmed
 15 | HISBIM | Ersan Gürdoğan | Confirmed
 16 | HISBIM | Taşkın Kızıl | ?
