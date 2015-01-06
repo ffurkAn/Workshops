@@ -10,7 +10,7 @@ The two days workshop will be held in [SwissOtel](http://www.swissotel.com/hotel
 
 You can book your room with a negotiated discount price from SwissOtel for our guests. 
 
- 1.  Single Room Rate - Classic & Swiss Advantage Room Euro 90.-  
+ 1. Single Room Rate - Classic & Swiss Advantage Room Euro 90.-  
  2. Double Room Rate - Classic & Swiss Advantage Room Euro 110.-  
 *These rates include breakfast and exclude Local VAT (8%)*
 
@@ -40,7 +40,7 @@ No | Organization  | Participant |Status
 9 | OBEO | Marwa Rostren | Confirmed
 10 | OBEO | Etienne Juliot | Confirmed
 11 | LORIA | Samuel Cruz-Lara | Confirmed
-12 | LORIA | Clairea Gardent | Confirmed
+12 | LORIA | Claire Gardent | Confirmed
 13 | EADS | Anne Monceaux  | Confirmed
 14 | MANTIS | Prof. Erhan Mengüsoğlu  | Confirmed
 15 | HISBIM | Ersan Gürdoğan | Confirmed
