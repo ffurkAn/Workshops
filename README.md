@@ -31,11 +31,11 @@ No | Organization  | Participant |Status
 :-- | :------ | :--- | :---
 1 | UNIT | Ferhat Erata | Confirmed
 2 | UNIT | Moharram Challenger | Confirmed
-3 | UNIT | Prof. Hans Vangheluwe | ?
+3 | UNIT | Prof. Hans Vangheluwe | Confirmed
 4 | UNIT | Afag Erata | Confirmed
 5 | UNIT | Furkan Tanrıverdi | Confirmed
 6 | KOCSISTEM | Mehmet Önat | Confirmed
-7 | KOCSISTEM | Hale Gezgen | ?
+7 | KOCSISTEM | Hale Gezgen | Confirmed
 8 | KOCSISTEM | Prof. Geylani Kardaş | Confirmed
 9 | OBEO | Marwa Rostren | Confirmed
 10 | OBEO | Etienne Juliot | Confirmed
