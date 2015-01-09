@@ -44,7 +44,8 @@ No | Organization  | Participant |Status
 13 | EADS | Anne Monceaux  | Confirmed
 14 | MANTIS | Prof. Erhan Mengüsoğlu  | Confirmed
 15 | HISBIM | Ersan Gürdoğan | Confirmed
-16 | HISBIM | Taşkın Kızıl | ?
+16 | HISBIM | Taşkın Kızıl | Confirmed
+17 | HISBIM | Oğuz Yıldız | Confirmed
 
 Program
 -----
