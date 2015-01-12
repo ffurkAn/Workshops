@@ -34,18 +34,19 @@ No | Organization  | Participant |Status
 3 | UNIT | Prof. Hans Vangheluwe | Confirmed
 4 | UNIT | Afag Erata | Confirmed
 5 | UNIT | Furkan Tanrıverdi | Confirmed
-6 | KOCSISTEM | Mehmet Önat | Confirmed
-7 | KOCSISTEM | Hale Gezgen | Confirmed
-8 | KOCSISTEM | Prof. Geylani Kardaş | Confirmed
-9 | OBEO | Marwa Rostren | Confirmed
-10 | OBEO | Etienne Juliot | Confirmed
-11 | LORIA | Samuel Cruz-Lara | Confirmed
-12 | LORIA | Claire Gardent | Confirmed
-13 | EADS | Anne Monceaux  | Confirmed
-14 | MANTIS | Prof. Erhan Mengüsoğlu  | Confirmed
-15 | HISBIM | Ersan Gürdoğan | Confirmed
-16 | HISBIM | Taşkın Kızıl | Confirmed
-17 | HISBIM | Oğuz Yıldız | Confirmed
+6 | UNIT | Ahmet Cahit Yaşa | Confirmed
+7 | KOCSISTEM | Mehmet Önat | Confirmed
+8 | KOCSISTEM | Hale Gezgen | Confirmed
+9 | KOCSISTEM | Prof. Geylani Kardaş | Confirmed
+10 | OBEO | Marwa Rostren | Confirmed
+11 | OBEO | Etienne Juliot | Confirmed
+12 | LORIA | Samuel Cruz-Lara | Confirmed
+13 | LORIA | Claire Gardent | Confirmed
+14 | EADS | Anne Monceaux  | Confirmed
+15 | MANTIS | Prof. Erhan Mengüsoğlu  | Confirmed
+16 | HISBIM | Ersan Gürdoğan | Confirmed
+17 | HISBIM | Taşkın Kızıl | Confirmed
+18 | HISBIM | Oğuz Yıldız | Confirmed
 
 Program
 -----
