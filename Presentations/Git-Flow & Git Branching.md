@@ -16,6 +16,8 @@ The Git-Flow Workflow defines a strict branching model designed around the proje
 
 ----------
 
+###Others
+
 -**feature:** new features, multiple features at the same time
 
 Common conventions:
@@ -41,8 +43,8 @@ Common conventions:
 
 ----------
 
-## Installation
->- `brew install git-flow`
+## Using Git-Flow 
+>- using commands
 or
 >- using SourceTree
 
