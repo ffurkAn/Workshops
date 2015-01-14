@@ -7,7 +7,7 @@ What is Git-Flow ?
 
 The Git-Flow Workflow defines a strict branching model designed around the project release.
 
-![<img src="http://jeffkreeftmeijer.com/images/gitflow.gif">](http://jeffkreeftmeijer.com/images/gitflow.gif)
+![<img src="https://www.atlassian.com/git/images/tutorials/collaborating/comparing-workflows/gitflow-workflow/05.svg">](https://www.atlassian.com/git/images/tutorials/collaborating/comparing-workflows/gitflow-workflow/05.svg)
 
 
 -**master:** release history
