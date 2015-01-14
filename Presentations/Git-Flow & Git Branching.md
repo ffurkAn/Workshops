@@ -22,15 +22,17 @@ The Git-Flow Workflow defines a strict branching model designed around the proje
 
 Common conventions:
 >- branch off: develop
->- merge into: master
+>- merge into: master 
 >- naming convention: feature-* or feature/*
+
+**note:** never interact with master
 
 ----------
 -**release:** next release
 
 Common conventions:
 >- branch off: develop
->- merge into: master
+>- merge into: master and develop
 >- naming convention: release-* or release/*
 
 ----------
@@ -38,7 +40,7 @@ Common conventions:
 
 Common conventions:
 >- branch off: master
->- merge into: master
+>- merge into: master and develop
 >- naming convention: hotfix-* or hotfix/*>
 
 ----------
