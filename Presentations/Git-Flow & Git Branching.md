@@ -28,7 +28,7 @@ Common conventions:
 >- merge into: develop
 >- naming convention: *feature-** or *feature/**
 
-**note:** never interact with master
+**note:** never interact with master directly.
 
 ----------
 -**release:** When you add enough features to release project, you should create release branch from delevop. When that particular release is ready to ship, it should be merged into both master and develop branch.
@@ -57,7 +57,6 @@ or
 ---------
 
 ##Example
-For a basic example about Git-Flow, click [here](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow).
 
 The example below demonstrates how this workflow can be used to manage a single release cycle. We’ll assume you have already created a central repository.
 
@@ -87,7 +86,7 @@ The first command makes sure the develop branch is up to date before trying to m
 ###Furkan begins to prepare a release
 ![Furkan begins to prepare a release](https://www.atlassian.com/git/images/tutorials/collaborating/comparing-workflows/gitflow-workflow/09.svg)
 
-While Ahmetis still working on his feature, Mary starts to prepare the first official release of the project. Like feature development, she uses a new branch to encapsulate the release preparations. 
+While Ahmet is still working on his feature, Furkan starts to prepare the first official release of the project. Like feature development, he uses a new branch to encapsulate the release preparations. 
 
 This branch is a place to clean up the release, test everything, update the documentation, and do any other kind of preparation for the upcoming release. It’s like a feature branch dedicated to polishing the release.
 
@@ -96,7 +95,7 @@ As soon as Furkan creates this branch and pushes it to the central repository, t
 ###Furkan finishes the release
 ![Furkan finishes the release](https://www.atlassian.com/git/images/tutorials/collaborating/comparing-workflows/gitflow-workflow/10.svg)
 
-Once the release is ready to ship, Furkanmerges it into master and develop, then deletes the release branch(optional). It’s important to merge back into develop because critical updates may have been added to the release branch and they need to be accessible to new features. Again, if Furkan’s organization stresses code review, this would be an ideal place for a pull request.
+Once the release is ready to ship, Furkan merges it into master and develop, then deletes the release branch(optional). It’s important to merge back into develop because critical updates may have been added to the release branch and they need to be accessible to new features. Again, if Furkan’s organization stresses code review, this would be an ideal place for a pull request.
 
 Release branches act as a buffer between feature development (develop) and public releases (master). Whenever you merge something into master, you should tag the commit for easy reference.
 
