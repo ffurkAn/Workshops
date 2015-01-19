@@ -77,7 +77,7 @@ Our example starts with Furkan and Ahmet working on separate features. They both
 
 Both of them add commits to the feature branch in the usual fashion: edit, stage, commit.
 
-###Furkan finishes her feature
+###Furkan finishes his feature
 ![Furkan finishes her feature](https://www.atlassian.com/git/images/tutorials/collaborating/comparing-workflows/gitflow-workflow/08.svg)
 
 After adding a few commits, Furkan decides her feature is ready. If her team is using pull requests, this would be an appropriate time to open one asking to merge her feature into develop. Otherwise, she can merge it into her local develop and push it to the central repository.
@@ -94,7 +94,7 @@ This branch is a place to clean up the release, test everything, update the docu
 As soon as Furkan creates this branch and pushes it to the central repository, the release is feature-frozen. Any functionality that isn’t already in develop is postponed until the next release cycle.
 
 ###Furkan finishes the release
-![Furkan finishes the release](https://www.atlassian.com/git/im![enter image description here](https://www.atlassian.com/git/images/tutorials/collaborating/comparing-workflows/gitflow-workflow/10.svg)ages/tutorials/collaborating/comparing-workflows/gitflow-workflow/10.svg)
+![Furkan finishes the release](https://www.atlassian.com/git/images/tutorials/collaborating/comparing-workflows/gitflow-workflow/10.svg)
 
 Once the release is ready to ship, Furkanmerges it into master and develop, then deletes the release branch(optional). It’s important to merge back into develop because critical updates may have been added to the release branch and they need to be accessible to new features. Again, if Furkan’s organization stresses code review, this would be an ideal place for a pull request.
 
