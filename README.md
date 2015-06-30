@@ -17,4 +17,4 @@ The 3nd International ModelWriter Workshop in Toulouse, France
 ---
 **Jun 22-23, 2015**
 
-https://github.com/ModelWriter/Workshops/tree/master/2015-04-23
+https://github.com/ModelWriter/Workshops/tree/master/2015-06-23
