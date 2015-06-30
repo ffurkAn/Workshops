@@ -19,3 +19,5 @@ No | Organization  | Participant |Status
 Topics
 ---
 https://docs.google.com/document/d/1NcMLlHjfZznOIuZeDQgLPnfmXUdVWBzXlnUQeGhWHDs/edit
+
+![<img src="https://raw.githubusercontent.com/ModelWriter/Workshops/master/_siteassets/BigPicture.png">](https://raw.githubusercontent.com/ModelWriter/Workshops/master/_siteassets/BigPicture.png)
