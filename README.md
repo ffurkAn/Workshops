@@ -4,7 +4,9 @@ The 1st International ModelWriter Workshop in Izmir, Turkey
 
 https://github.com/ModelWriter/Workshops/tree/master/2015-01-15
 
-
+The 1st International Project Exhibition in Berlin, Germany
+---
+**Mar 10-11,2015**
 
 The 2nd International ModelWriter Workshop in Brussels, Belgium
 ---
@@ -13,8 +15,13 @@ The 2nd International ModelWriter Workshop in Brussels, Belgium
 https://github.com/ModelWriter/Workshops/tree/master/2015-04-30
 
 
-The 3nd International ModelWriter Workshop in Toulouse, France
+The 3rd International ModelWriter Workshop in Toulouse, France
 ---
 **Jun 22-23, 2015**
 
 https://github.com/ModelWriter/Workshops/tree/master/2015-06-23
+
+
+The 4th International ModelWriter Workshop in Brussels, Belgium
+---
+**Sep 23-24, 2015**
