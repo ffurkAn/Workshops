@@ -8,6 +8,8 @@ The 1st International Project Exhibition in Berlin, Germany
 ---
 **Mar 10-11,2015**
 
+https://artemis-ia.eu/co-summit-2015/index.html
+
 The 2nd International ModelWriter Workshop in Brussels, Belgium
 ---
 **Apr 30, 2015**
@@ -20,7 +22,7 @@ The 3rd International ModelWriter Workshop in Toulouse, France
 **Jun 22-23, 2015**
 
 https://github.com/ModelWriter/Workshops/tree/master/2015-06-23
-
+https://wiki.eclipse.org/Eclipse_WG_Unconference_France_2015
 
 The 4th International ModelWriter Workshop in Brussels, Belgium
 ---
