@@ -58,11 +58,11 @@ The draft timetable and agenda for the 1st ITEA review meeting (9:00am-12:00pm):
 7. Q&A (30 min): 12:00
 
 8. Participants from project (13-14 People):
-    - UNIT: Ferhat Erata, Dr. Moharram Challenger
-    - KocSistem: Hale Gezgen, Prof. Geylani Kardas
-    - MANTIS: Erhan Mengusoglu
-    - HISBIM: Prof. Ersan Gürdoğan, Taskin Kızıl
-    - OBEO: Etienne Juliot, Yvan
-    - Airbus: Anne Monceaux
-    - LORIA: Prof. Claire Gardent, Prof. Samuel CRUZ-LARA, and Dr. Mariem Mahfoudh
-    - Havelsan: Dr. Eray Tuzun
+- UNIT: Ferhat Erata, Dr. Moharram Challenger
+- KOÇSISTEM: Prof. Geylani Kardas, Hale Gezgen,
+- MANTIS: Prof. Erhan Mengüsoğlu
+- HISBIM: Prof. Ersan Gürdoğan, Taskin Kızıl
+- OBEO: Etienne Juliot, Yvan Lussaud
+- AIRBUS: Dr. Anne Monceaux
+- LORIA: Prof. Claire Gardent, Prof. Samuel CRUZ-LARA, and Dr. Mariem Mahfoudh
+- HAVELSAN: Dr. Eray Tuzun
