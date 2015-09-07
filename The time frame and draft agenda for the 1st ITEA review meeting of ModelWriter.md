@@ -1,12 +1,14 @@
 The draft timetable and agenda for the 1st ITEA review meeting (9:00am-12:00pm):
 
-1. Introduction (15 Min): 9:00
+1. Introduction (15 min): 9:00
      - The project idea,
      - The consortium structure (maybe efforts and costs)
      - Project industrialization triangle and business market
      - Overall to the progress
      - The schedule of the day
+     - Present a single slide with all the deliverables due to date, and their current status
 2.  UC presentations (5 min each => 45min): 9:15
+      (To present the current situation vs what the project output could enable)
     - France
       - UC-FR-01: Synchronization between Models and Documentation (OBEO)
       - UC-FR-02: Enterprise Architecture (OBEO)
@@ -22,11 +24,12 @@ The draft timetable and agenda for the 1st ITEA review meeting (9:00am-12:00pm):
       - UC-BE-01: Requirements IT (Sogeti)
       - UC-BE-02: Automated test generation (Sogeti)
 
-3. Progress of the Project in WP base (10 min each => 1h): 10:00
+3. Progress of the Project in WP base (1h:00min): 10:00
+    (Focus on actual achievements, rather than on explaining what you will do in some WPs; just mention quickly tasks that have just started)
     - WP1: Industrial Use Cases and Requirements (AIRBUS)
         - Software requirements
         - User requirements
-    - WP2: Semantic Parsing and Generation of Documents and Documents Components (LORIA)
+    - WP2: Semantic Parsing and Generation of Documents and Documents Components (LORIA, Claire)
     - WP3: Model to/from Knowledge Base Transformation (UNIT)
     - WP4: Knowledge Base Design and Implementation (MANTIS)
     - WP5: Project Management (UNIT)
@@ -48,16 +51,18 @@ The draft timetable and agenda for the 1st ITEA review meeting (9:00am-12:00pm):
     - Model Editor
     - Writer Editor
     - Marking and Mapping mechanism
-    - Semantic parsing and consistency check
+    - Semantic parsing and consistency check (Mariem)
     - Alloy based controls
     - Import/Export Connectors
     - UC demonstrations
 
-6. Reviewing the deliverables (15 Min): 11:45
+6. Summary of the current status, the achievements and the expectation (15min): 11:45
 
-7. Q&A (30 min): 12:00
+7. The reviewers private session (30 min): 12:00
 
-8. Participants from project (13-14 People):
+8. Feedback session (15min): 12:30 
+
+9. Participants from project partners (13-14 People):
     - UNIT: Ferhat Erata, Dr. Moharram Challenger
     - KOÇSISTEM: Prof. Geylani Kardas, Hale Gezgen,
     - MANTIS: Prof. Erhan Mengüsoğlu
@@ -66,3 +71,5 @@ The draft timetable and agenda for the 1st ITEA review meeting (9:00am-12:00pm):
     - AIRBUS: Dr. Anne Monceaux
     - LORIA: Prof. Claire Gardent, Prof. Samuel CRUZ-LARA, and Dr. Mariem Mahfoudh
     - HAVELSAN: Dr. Eray Tuzun
+
+@ModelWriter/consortium 
