@@ -62,7 +62,7 @@ The draft timetable and agenda for the 1st ITEA review meeting (9:00am-12:00pm):
 
 8. Feedback session (15min): 12:30 
 
-9. Participants from project partners (13-14 People):
+. Participants from project partners (13-14 People):
     - UNIT: Ferhat Erata, Dr. Moharram Challenger
     - KOÇSISTEM: Prof. Geylani Kardas, Hale Gezgen,
     - MANTIS: Prof. Erhan Mengüsoğlu
