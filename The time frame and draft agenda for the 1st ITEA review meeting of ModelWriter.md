@@ -66,7 +66,7 @@ The draft timetable and agenda for the 1st ITEA review meeting (9:00am-12:45pm):
     - KOÇSISTEM: Prof. Geylani Kardas, Hale Gezgen,
     - MANTIS: Prof. Erhan Mengüsoğlu
     - HISBIM: Prof. Ersan Gürdoğan, Taskin Kızıl
-    - OBEO: Etienne Juliot, Yvan Lussaud
+    - OBEO: Yvan Lussaud
     - AIRBUS: Dr. Anne Monceaux
     - LORIA: Prof. Claire Gardent, Prof. Samuel CRUZ-LARA, and Dr. Mariem Mahfoudh
     - HAVELSAN: Dr. Eray Tuzun
