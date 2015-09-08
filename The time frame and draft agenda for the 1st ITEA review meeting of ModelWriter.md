@@ -2,13 +2,12 @@ The draft timetable and agenda for the 1st ITEA review meeting (9:00am-12:45pm):
 
 1. Introduction (15 min): 9:00
      - The project idea,
-     - The consortium structure (maybe efforts and costs)
+     - The consortium structure (efforts and costs)
      - Project industrialization triangle and business market
      - Overall to the progress
      - The schedule of the day
      - Present a single slide with all the deliverables due to date, and their current status
 2.  UC presentations (5 min each => 45min): 9:15
-      (To present the current situation vs what the project output could enable)
     - France
       - UC-FR-01: Synchronization between Models and Documentation (OBEO)
       - UC-FR-02: Enterprise Architecture (OBEO)
@@ -25,7 +24,6 @@ The draft timetable and agenda for the 1st ITEA review meeting (9:00am-12:45pm):
       - UC-BE-02: Automated test generation (SOGETI)
 
 3. Progress of the Project in WP base (1h:00min): 10:00
-    (Focus on actual achievements, rather than on explaining what you will do in some WPs; just mention quickly tasks that have just started)
     - WP1: Industrial Use Cases and Requirements (AIRBUS)
         - Software requirements
         - User requirements
