@@ -8,7 +8,7 @@ The draft timetable and agenda for the 1st ITEA review meeting (9:00am-12:45pm):
      - The schedule of the day
      - Present a single slide with all the deliverables due to date, and their current status
      
-2.  UC presentations (5 min each => 45min): 9:15
+2.  Use-cases and exploitation prospects (5 min each => 45min): 9:15
     - France
       - UC-FR-01: Synchronization between Models and Documentation (OBEO)
       - UC-FR-02: Enterprise Architecture (OBEO)
