@@ -27,3 +27,8 @@ https://wiki.eclipse.org/Eclipse_WG_Unconference_France_2015
 The 4th International ModelWriter Workshop in Brussels, Belgium
 ---
 **Sep 23-24, 2015**
+
+The 5th International ModelWriter Workshop in Ludwigsburg, Germany
+---
+**Nov 2, 2015**
+https://www.eclipsecon.org/europe2015/
