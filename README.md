@@ -32,4 +32,5 @@ The 5th International ModelWriter Workshop in Ludwigsburg, Germany
 ---
 **Nov 2, 2015**
 
+https://github.com/ModelWriter/Workshops/tree/master/2015-11-02
 https://www.eclipsecon.org/europe2015/
