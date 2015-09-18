@@ -57,8 +57,7 @@ The agenda for the 1st ITEA review [**9:00 - 12:30**]:
     - Semantic parsing and consistency check - Mariem
     - UC demonstrations - Anne?
 
-5. **Summary of the current status, the achievements and the expectation** (15min): [**11:30 - 11:45**]
- - Ferhat
+5. **Summary of the current status, the achievements and the expectation** (15min): [**11:30 - 11:45**] - Ferhat
 
 6. **The reviewers private session** (30 min): [**11:45 - 12:15**]
 
