@@ -1,4 +1,5 @@
-The draft timetable and agenda for the 1st ITEA review meeting [**9:00am - 12:30pm**]:
+The agenda for the 1st ITEA review [**9:00 - 12:30**]:
+--------
 
 1. **Introduction** (15 min): [**09:00 - 09:15**] - Ferhat
      - The project idea,
