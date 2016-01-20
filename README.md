@@ -37,6 +37,6 @@ https://www.eclipsecon.org/europe2015/
 
 The 6th International ModelWriter Workshop in Paris, France
 ---
-**Feb 8-9, 2015**
+**Feb 15-16, 2015**
 
 https://github.com/ModelWriter/Workshops/tree/master/2016-02-08
