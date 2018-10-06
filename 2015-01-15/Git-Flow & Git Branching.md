@@ -8,7 +8,7 @@ What is Git-Flow ?
 
 The Git-Flow Workflow defines a strict branching model designed around the project release. This is a very good way for git branching and release management strategy.
 
-![Example structure of Git-Flow](https://www.atlassian.com/git/images/tutorials/collaborating/comparing-workflows/gitflow-workflow/05.svg)
+![Example structure of Git-Flow](https://jeffkreeftmeijer.com/git-flow/git-flow.png)
 
 As you can see above, instead of a single master branch, this workflow uses 2 master branches which are master and develop branch.
 
@@ -61,7 +61,7 @@ or
 The example below demonstrates how this workflow can be used to manage a single release cycle. We’ll assume you have already created a central repository.
 
 ###Create a Develop Branch
-![Create a Develop Branch](https://www.atlassian.com/git/images/tutorials/collaborating/comparing-workflows/gitflow-workflow/06.svg)
+![Create a Develop Branch](https://wac-cdn.atlassian.com/dam/jcr:2bef0bef-22bc-4485-94b9-a9422f70f11c/02%20(2).svg?cdnVersion=kc)
 
 The first step is to complement the default master with a develop branch. A simple way to do this is for one developer to create an empty develop branch locally and push it to the server.
 
@@ -77,14 +77,14 @@ Our example starts with Furkan and Ahmet working on separate features. They both
 Both of them add commits to the feature branch in the usual fashion: edit, stage, commit.
 
 ###Furkan finishes his feature
-![Furkan finishes her feature](https://www.atlassian.com/git/images/tutorials/collaborating/comparing-workflows/gitflow-workflow/08.svg)
+![Furkan finishes her feature](https://wac-cdn.atlassian.com/dam/jcr:b5259cce-6245-49f2-b89b-9871f9ee3fa4/03%20(2).svg?cdnVersion=kc)
 
 After adding a few commits, Furkan decides her feature is ready. If her team is using pull requests, this would be an appropriate time to open one asking to merge her feature into develop. Otherwise, she can merge it into her local develop and push it to the central repository.
 
 The first command makes sure the develop branch is up to date before trying to merge in the feature. Note that features should never be merged directly into master. Conflicts can be resolved in the same way as in the Centralized Workflow.
 
 ###Furkan begins to prepare a release
-![Furkan begins to prepare a release](https://www.atlassian.com/git/images/tutorials/collaborating/comparing-workflows/gitflow-workflow/09.svg)
+![Furkan begins to prepare a release](https://wac-cdn.atlassian.com/dam/jcr:a9cea7b7-23c3-41a7-a4e0-affa053d9ea7/04%20(1).svg?cdnVersion=kc)
 
 While Ahmet is still working on his feature, Furkan starts to prepare the first official release of the project. Like feature development, he uses a new branch to encapsulate the release preparations. 
 
@@ -100,7 +100,7 @@ Once the release is ready to ship, Furkan merges it into master and develop, the
 Release branches act as a buffer between feature development (develop) and public releases (master). Whenever you merge something into master, you should tag the commit for easy reference.
 
 ###End-user discovers a bug
-![End-user discovers a bug](https://www.atlassian.com/git/images/tutorials/collaborating/comparing-workflows/gitflow-workflow/11.svg)
+![End-user discovers a bug](https://wac-cdn.atlassian.com/dam/jcr:61ccc620-5249-4338-be66-94d563f2843c/05%20(2).svg?cdnVersion=kc)
 After shipping the release, Furkan goes back to developing features for the next release with Ahmet. That is, until an end-user opens a ticket complaining about a bug in the current release. To address the bug, Furkan (or Ahmet) creates a maintenance branch off of master, fixes the issue with as many commits as necessary, then merges it **directly back into master**.
 
 Like release branches, maintenance branches contain important updates that need to be included in develop, so Furkan needs to perform that merge as well. Then, Furkan’s free to delete the branch.
