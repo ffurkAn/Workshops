@@ -70,7 +70,7 @@ This branch will contain the complete history of the project, whereas master wil
 Everybody now has a local copy of the historical branches set up.
 
 ###Furkan and Ahmet begin new features
-![Furkan and Ahmet begin new features](https://www.atlassian.com/git/images/tutorials/collaborating/comparing-workflows/gitflow-workflow/07.svg)
+![Furkan and Ahmet begin new features](https://wac-cdn.atlassian.com/dam/jcr:b5259cce-6245-49f2-b89b-9871f9ee3fa4/03%20(2).svg?cdnVersion=kc)
 
 Our example starts with Furkan and Ahmet working on separate features. They both need to create separate branches for their respective features. Instead of basing it on master, they should both base their feature branches on develop.
 
