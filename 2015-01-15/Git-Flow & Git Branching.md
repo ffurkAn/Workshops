@@ -8,7 +8,7 @@ What is Git-Flow ?
 
 The Git-Flow Workflow defines a strict branching model designed around the project release. This is a very good way for git branching and release management strategy.
 
-![Example structure of Git-Flow](https://www.atlassian.com/git/images/tutorials/collaborating/comparing-workflows/gitflow-workflow/05.svg)
+![Example structure of Git-Flow](https://www.google.com/search?q=git+flow&safe=active&rlz=1C1GCEU_trTR884TR884&tbm=isch&source=iu&ictx=1&fir=d0ZdU3_sZ1wzpM%253A%252CmWHDfkmAUVNDzM%252C_&vet=1&usg=AI4_-kR0kUxQJeGtvfviJIjMp4s_0UDPJg&sa=X&ved=2ahUKEwjV2d_Ly5fqAhUVwMQBHbPkBWkQ9QEwA3oECAcQHA&cshid=1592903425782667&biw=1920&bih=937#imgrc=d0ZdU3_sZ1wzpM:)
 
 As you can see above, instead of a single master branch, this workflow uses 2 master branches which are master and develop branch.
 
