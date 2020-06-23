@@ -61,7 +61,7 @@ or
 The example below demonstrates how this workflow can be used to manage a single release cycle. We’ll assume you have already created a central repository.
 
 ###Create a Develop Branch
-![Create a Develop Branch](https://www.atlassian.com/git/images/tutorials/collaborating/comparing-workflows/gitflow-workflow/06.svg)
+![Create a Develop Branch](https://wac-cdn.atlassian.com/dam/jcr:2bef0bef-22bc-4485-94b9-a9422f70f11c/02%20(2).svg?cdnVersion=1088)
 
 The first step is to complement the default master with a develop branch. A simple way to do this is for one developer to create an empty develop branch locally and push it to the server.
 
@@ -70,14 +70,14 @@ This branch will contain the complete history of the project, whereas master wil
 Everybody now has a local copy of the historical branches set up.
 
 ###Furkan and Ahmet begin new features
-![Furkan and Ahmet begin new features](https://www.atlassian.com/git/images/tutorials/collaborating/comparing-workflows/gitflow-workflow/07.svg)
+![Furkan and Ahmet begin new features](https://wac-cdn.atlassian.com/dam/jcr:b5259cce-6245-49f2-b89b-9871f9ee3fa4/03%20(2).svg?cdnVersion=1088)
 
 Our example starts with Furkan and Ahmet working on separate features. They both need to create separate branches for their respective features. Instead of basing it on master, they should both base their feature branches on develop.
 
 Both of them add commits to the feature branch in the usual fashion: edit, stage, commit.
 
 ###Furkan finishes his feature
-![Furkan finishes her feature](https://www.atlassian.com/git/images/tutorials/collaborating/comparing-workflows/gitflow-workflow/08.svg)
+![Furkan finishes her feature](https://wac-cdn.atlassian.com/dam/jcr:a9cea7b7-23c3-41a7-a4e0-affa053d9ea7/04%20(1).svg?cdnVersion=1088)
 
 After adding a few commits, Furkan decides her feature is ready. If her team is using pull requests, this would be an appropriate time to open one asking to merge her feature into develop. Otherwise, she can merge it into her local develop and push it to the central repository.
 
